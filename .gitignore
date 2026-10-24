@@ -5,3 +5,7 @@ __pycache__/
 .venv/
 venv/
 .ipynb_checkpoints/
+
+#忽略模型
+/model/
+/data/
